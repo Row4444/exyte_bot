@@ -135,3 +135,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+#My
+3.7.2/
+dump.rdb
+.idea/
+.idea
